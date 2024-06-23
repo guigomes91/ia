@@ -1,0 +1,3 @@
+[submodule "gomes-ai"]
+	path = gomes-ai
+	url = https://github.com/guigomes91/gomes-ai
